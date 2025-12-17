@@ -1,0 +1,5 @@
+{
+  "name": "Neon Fibonoku",
+  "description": "A cyberpunk-themed Sudoku experience featuring a reactive Fibonacci-based data visualizer that tracks remaining numbers in real-time.",
+  "requestFramePermissions": []
+}
